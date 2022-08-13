@@ -12,9 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
+        esto es un cambio y es algo que en producion no debe verse
 
         <p className={styles.description}>
           Get started by editing{' '}
